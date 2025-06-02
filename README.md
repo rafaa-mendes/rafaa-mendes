@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafael Mendes
 
-<!--
-**rafaa-mendes/rafaa-mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer with a backend-first mindset  
+☕ Expert in Python, FastAPI, Kafka, and well-structured APIs  
+📦 I build modular, scalable architectures that are made to last  
+🛠️ I automate stuff and solve bugs no one else wants to touch  
+📬 If it landed in Mongo, it’s basically canon
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- Email: rafael.mendes153@outlook.com
+- LinkedIn: [Rafael Mendes](https://www.linkedin.com/in/rafaa-mendes/)
+<!--- Portfolio: [yourwebsite.dev](https://yourwebsite.dev)-->
